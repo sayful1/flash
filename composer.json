@@ -20,5 +20,5 @@
             "src/Sayfulit/Flash/functions.php"
         ]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
