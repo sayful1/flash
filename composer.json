@@ -1,0 +1,24 @@
+{
+    "name": "sayfulit/flash",
+    "description": "Easy flash notifications using sweetAlert",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sayful Islam",
+            "email": "sayful.islam001@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sayfulit\\Flash": "src/"
+        },
+        "files": [
+            "src/Sayfulit/Flash/functions.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
